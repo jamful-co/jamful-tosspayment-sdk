@@ -1,0 +1,1 @@
+{"version":3,"file":"useWidgetRegistry.d.ts","sourceRoot":"","sources":["../../../src/hooks/useWidgetRegistry.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,eAAe,EAAE,MAAM,4BAA4B,CAAC;AAO7D,wBAAgB,iBAAiB;0BAuCF,MAAM;kBA1CvB,OAAO;aAAO,KAAK,CAAC,SAAS,CAAC,eAAe,CAAC;;yBAU9C,MAAM,OACX,KAAK,CAAC,SAAS,CAAC,eAAe,CAAC;2BAUT,MAAM;0BAOP,MAAM;yBAUP,MAAM;;;EAiBnC"}

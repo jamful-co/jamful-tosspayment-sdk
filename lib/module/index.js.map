@@ -1,0 +1,1 @@
+{"version":3,"names":["AgreementWidget","PaymentMethodWidget","PaymentWidgetProvider","usePaymentWidget"],"sourceRoot":"../../src","sources":["index.ts"],"mappings":"AAAA,SAASA,eAAe,QAAQ,8BAA8B;AAC9D,SAASC,mBAAmB,QAAQ,kCAAkC;AACtE,SACEC,qBAAqB,EACrBC,gBAAgB,QACX,0BAA0B","ignoreList":[]}

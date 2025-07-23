@@ -1,0 +1,1 @@
+{"version":3,"file":"EscrowProduct.d.ts","sourceRoot":"","sources":["../../../src/models/EscrowProduct.tsx"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC5B,gCAAgC;IAChC,EAAE,EAAE,MAAM,CAAC;IAEX,gBAAgB;IAChB,IAAI,EAAE,MAAM,CAAC;IAEb,6BAA6B;IAC7B,IAAI,EAAE,MAAM,CAAC;IAEb,6CAA6C;IAC7C,SAAS,EAAE,MAAM,CAAC;IAElB,sBAAsB;IACtB,QAAQ,EAAE,MAAM,CAAC;CAClB"}

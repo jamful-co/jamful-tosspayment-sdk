@@ -1,0 +1,1 @@
+{"version":3,"names":["packageJson","packageVersion","version","Version"],"sourceRoot":"../../../src","sources":["utils/version.ts"],"mappings":"AAAA;AACA,OAAOA,WAAW,MAAM,oBAAoB;AAE5C,MAAMC,cAAc,GAAGD,WAAW,CAACE,OAAO;AAE1C,OAAO,MAAMC,OAAO,GAAGF,cAAc","ignoreList":[]}
