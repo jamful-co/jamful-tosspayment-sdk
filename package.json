@@ -1,5 +1,5 @@
 {
-  "name": "jamful/widget-sdk-react-native",
+  "name": "@jamful/widget-sdk-react-native",
   "version": "1.4.0",
   "description": "PaymentWidget SDK for React Native",
   "main": "lib/commonjs/index",
